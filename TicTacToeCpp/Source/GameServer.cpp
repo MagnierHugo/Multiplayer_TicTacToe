@@ -24,6 +24,7 @@ GameServer::~GameServer()
 	delete connectionThread;
 }
 
+#pragma optimize( "", off )
 void GameServer::Run()
 {
 	connectionThread = new std::thread(
@@ -64,6 +65,7 @@ void GameServer::Run()
 
 	std::cout << "No more player connected. Shutting down the server" << std::endl;
 }
+#pragma optimize( "", on )
 
 void GameServer::ParsePlay(const int play, int returnBuffer[3], const int clientNumber)
 {
