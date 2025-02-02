@@ -10,6 +10,6 @@ Give each player a username and that's it you can now play.
 
 ## Contributors
 
-@MagnierHugo (hmagnier@gaming.tech)
-@Yalt-167 (ariviale@gaming.tech)
-@ZoraNovachrono (qrecco@gaming.tech)
+- @MagnierHugo (hmagnier@gaming.tech)
+- @Yalt-167 (ariviale@gaming.tech)
+- @ZoraNovachrono (qrecco@gaming.tech)
