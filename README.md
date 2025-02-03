@@ -5,7 +5,7 @@ However the program is only sending packets to the localhost (127.0.0.1) so it's
 
 ## How to run
 
-Download the release then start one instance of server.exe and two of the client.exe\
+Download the release then launch an instance of TicTacToe.exe with command line argument <Server> and two with <Client>\
 Give each player a username and that's it you can now play.
 
 ## Contributors
